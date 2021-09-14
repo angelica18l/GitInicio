@@ -14,11 +14,11 @@ namespace Calculator
             Console.WriteLine("------------------------\n");
 
             // Ask the user to type the first number.
-            Console.WriteLine("Type a number 1 ALE 2, and then press Enter");
+            Console.WriteLine("Type a number 1 ALE 2 Local, and then press Enter");
             num1 = Convert.ToDouble(Console.ReadLine());
 
             // Ask the user to type the second number.
-            Console.WriteLine("Type another number, and then press Enter");
+            Console.WriteLine("Type another number 2 ->, and then press Enter");
             num2 = Convert.ToDouble(Console.ReadLine());
 
             // Ask the user to choose an option.
